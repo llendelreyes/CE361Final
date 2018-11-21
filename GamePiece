@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FinalProject
+{
+    public class GamePiece
+    {
+        public void Movement() // defines movement of the gamepiece
+        {
+            int horizontal = 1; // horizontal movement of the piece on the board
+            int vertical = 1; //vertical movement of the piece on the board
+
+        }
+
+    }
+
+    
+}
